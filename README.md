@@ -5,7 +5,6 @@ Algoritma Dijkstra adalah salah satu algoritma yang dipakai untuk memecahkan per
 
 Algoritma Dijkstra bekerja dengan memakai strategi greedy, dimana pada setiap langkah yang dipilih merupakan sisi yang memiliki bobot terkecil yang menghubungkan sebuah simpul yang telah dipilih dengan simpul lain yang belum dipilih
 ## Menyelesaikan Algoritma Dijsktra menggunakan Python
-graf berarah yang diselesaikan :
 ![graf](GRAPH.png)
 
 silahkan klik [disini](dijsktra.py)  untuk melihat kode atau kamu bisa clone project ini.
