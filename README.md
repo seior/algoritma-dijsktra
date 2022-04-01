@@ -1,6 +1,6 @@
 # Algoritma Dijsktra
 
-## Apa it Algoritma Dijsktra ?
+## Apa itu Algoritma Dijsktra ?
 Algoritma Dijkstra adalah salah satu algoritma yang dipakai untuk memecahkan permasalahan jarak terpendek di dalam graf berarah dengan bobot garis yang bernilai non-negatif.
 
 Algoritma Dijkstra bekerja dengan memakai strategi greedy, dimana pada setiap langkah yang dipilih merupakan sisi yang memiliki bobot terkecil yang menghubungkan sebuah simpul yang telah dipilih dengan simpul lain yang belum dipilih
